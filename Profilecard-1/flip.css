@@ -17,10 +17,7 @@ body{
 	perspective:800;
 	-webkit-perspective:800;
 }
-	/* top shows upar se kitna neeche chahiye that is upar wale border se kitna door
-	Bottom means neeche se kitna upar ie neeche wale border se(border of page) kitna door
-	Similarly right means right border of the page se kitna door
-	and same for left also  */
+	
 .card{
 	background-color: black;
 	height:100%;
